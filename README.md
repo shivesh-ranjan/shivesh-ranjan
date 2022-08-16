@@ -1,6 +1,6 @@
 # Hi, I'm 𝙎𝙝𝙞𝙫𝙚𝙨𝙝👋
-## Android Developer & ML Enthusiast 
-### pursuing Computer Science Engineering with specialisation in AI&ML. I am skilled in Python, Kotlin and C/C++ and currently exploring new technologies.
+## Machine Learning & Web Developer
+### pursuing Computer Science Engineering with specialisation in AI&ML. I am skilled in Python, C and C++ and currently exploring Data Warehousing technologies.
 - My <a href="https://shiveshranjan.tech/">website</a>.
 - I am a 1st year B.Tech AI&ML student at MAIT, Delhi.
 - My projects [here](https://github.com/shivesh-ranjan?tab=repositories)
