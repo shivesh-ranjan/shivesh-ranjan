@@ -7,6 +7,3 @@
 - Email Address ranjanshivesh71@gmail.com
 - Join my <a href="https://discord.gg/9VRDzkvWWe">DISCORD</a> to become a part of my community!
 - My <a href="https://www.linkedin.com/in/shivesh-ranjan/">LinkedIn Profile</a>
-<br>
-
-![Shivesh's github stats](https://github-readme-stats.vercel.app/api?username=shivesh-ranjan)
